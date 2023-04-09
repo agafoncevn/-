@@ -32,7 +32,7 @@
 
 ### Доступные файлы проекта:  
 1) 1_Project_2020-11_Предобработка данных_Исследование надёжности заёмщиков.ipynb;  
-[Посмотреть проект через - nbviewer.jupyter.org](1. Исследование надёжности заёмщиков.ipynb)  
+[1. Исследование надёжности заёмщиков.ipynb](https://nbviewer.org/github/agafoncevn/Project-Yandex.Practicum/blob/main/1.%20Исследование%20надёжности%20заёмщиков.ipynb)
 
 ### Библиотеки: pandas / numpy   
   
@@ -52,7 +52,7 @@
 
 ### Доступные файлы проекта:  
 1) " 2_Project_2020-11_Исследовательский анализ_Исследование объявлений о продаже квартир.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/2_Project_2020-11_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb)  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/agafoncevn/Project-Yandex.Practicum/blob/main/2.%20Продажа%20квартир%20в%20Санкт-Петербурге%20—%20анализ%20рынка%20недвижимости.ipynb) 
 
 ### Библиотеки: pandas / numpy / matplotlib / pymystem3 /  
   
@@ -82,7 +82,7 @@
 
 ### Доступные файлы проекта:  
 1) " 3_Project_2020-12_Статистический анализ_Определение перспективного тарифа для телеком компании.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/3_Project_2020-12_%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb)  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/agafoncevn/Project-Yandex.Practicum/blob/main/3.%20Определение%20выгодного%20тарифа%20для%20телеком%20компании.ipynb)
 
 ### Библиотеки: pandas / numpy / matplotlib / pymystem3 /  
   
@@ -113,7 +113,7 @@
 
 ### Доступные файлы проекта:  
 1) " 4_Project_2020-12_Сборный проект_1.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/4_Project_2020-12_%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_1.ipynb)  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/agafoncevn/Project-Yandex.Practicum/blob/main/4.%20Изучение%20закономерностей%2C%20определяющих%20успешность%20игр.ipynb)  
 
 ### Библиотеки: pandas / numpy / matplotlib /  
   
@@ -128,39 +128,6 @@
 Перед вами данные до 2016 года. Представим, что сейчас декабрь 2016 г., и вы планируете кампанию на 2017-й. Нужно отработать принцип работы с данными. Неважно, прогнозируете ли вы продажи на 2017 год по данным 2016-го или же 2027-й — по данным 2026 года.  
 В наборе данных попадается аббревиатура ESRB (Entertainment Software Rating Board) — это ассоциация, определяющая возрастной рейтинг компьютерных игр. ESRB оценивает игровой контент и присваивает ему подходящую возрастную категорию, например, «Для взрослых», «Для детей младшего возраста» или «Для подростков».  
 
-## ===================================<a id="project05"></a>    
-
-## 5. Сбор и хранение данных - "Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей"   
-[к содержанию](#soderjanie)  
-
-Интернет как источник данных для анализа. Форматы представления данных. Технология HTTP API. Библиотека BeautifulSoup. Знакомство с реляционными базами данных. Обработка данных скриптами на языке SQL. Операторы Select и Join. Операции с базой: импорт и экспорт данных. Проект. Извлечь данные из базы и дать сводку операционной эффективности интернет-магазина в двух городах за последний месяц.
-
-### Доступные файлы проекта:  
-1) " 5-1_Project_2021-01_Сбор и хранение данных_Парсинг сайта.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/5-1_Project_2021-01_%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%9F%D0%B0%D1%80%D1%81%D0%B8%D0%BD%D0%B3%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.ipynb)  
-2) " 5-2_Project_2021-01_Сбор и хранение данных__SQL-запросы.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/5-2_Project_2021-01_%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85__SQL-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.ipynb)  
-3) " 5-3_Project_2021-01_Сбор и хранение данных_Аналитика в авиакомпании.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/5-3_Project_2021-01_%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb)  
-
-### Библиотеки: pandas / numpy / matplotlib / requests / beautifulsoup / sqlalchemy / datetime /  
-  
-### Навыки:  
-
-  * Предобработка данных  
-  * Анализ данных  
-  * Парсинг сайтов  
-  * Написание регулярных выражений  
-  * Написание SQL-запросов разной сложности   
-  * SQL - срезы данных и составлeние подзапросы  
-  * SQL - агрегирующие функции  
-  * SQL - объединение таблиц  
-
-### Описание проекта:  
-
-Вы аналитик компании «F9» — это российская авиакомпания, выполняющая внутренние пассажирские авиаперевозки. Сотни перелётов каждый день. Важно понять предпочтения пользователей, покупающих билеты на те или иные направления.  
-Вам предстоит изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие фестивали.  
-
 ## ===================================<a id="project06"></a>    
 
 ## 6. Анализ бизнес-показателей - "Оптимизация маркетинговых затрат в Яндекс.Афише"   
@@ -170,8 +137,7 @@
 
 ### Доступные файлы проекта:  
 1) " 6_Project_2021-01_Анализ бизнес-показателей и Юнит-экономика.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/6_Project_2021-01_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B8%20%D0%AE%D0%BD%D0%B8%D1%82-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0.ipynb)   
-
+[Посмотреть проект через - nbviewer.jupyter.org]  (https://nbviewer.org/github/agafoncevn/Project-Yandex.Practicum/blob/main/6.%20Оптимизация%20маркетинговых%20затрат%20в%20Яндекс.Афише.ipynb)
 ### Библиотеки: pandas / numpy / matplotlib / seaborn / datetime /  
   
 ### Навыки:   
@@ -206,7 +172,7 @@
 
 ### Доступные файлы проекта:  
 1) " 7_Project_2021-02_Решения в бизнесе_Проверка статистических гипотез.ipynb "   
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/7_Project_2021-02_%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5_%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7.ipynb)  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/agafoncevn/Project-Yandex.Practicum/blob/main/7.%20Проверка%20гипотез%20по%20увеличению%20выручки%20в%20интернет-магазине%20—.ipynb)
 
 ### Библиотеки: pandas / numpy / matplotlib / seaborn / datetime / scipy /  
   
@@ -256,9 +222,7 @@
 
 ### Доступные файлы проекта:  
 1) " 8_Project_2021-02_Визуализация данных_Рынок общепита Москвы.ipynb "   
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/8_Project_2021-02_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B.ipynb)  
-2) " 8_Project_2021-02_Презентация.pdf "  
-[Ссылка на Презентацию](https://github.com/pp-vit-tol/da18_TolmakovVV/blob/main/8_Project_2021-02_%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf)  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github/agafoncevn/Project-Yandex.Practicum/blob/main/8.%20Исследования%20рынка%20общепита%20в%20Москве.ipynb)
 
 ### Библиотеки: pandas / numpy / plotly / matplotlib / seaborn / re /  
   
