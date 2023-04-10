@@ -172,7 +172,7 @@
 
 ### Доступные файлы проекта:  
 1) " 7_Project_2021-02_Решения в бизнесе_Проверка статистических гипотез.ipynb "   
-[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.org/github.com/agafoncevn/Project-Yandex.Practicum/blob/main/7.%20Проверка%20гипотез%20по%20увеличению%20выручки%20в%20интернет-магазине%20.ipynb)
+[Посмотреть проект](https://github.com/agafoncevn/Project-Yandex.Practicum/blob/main/7.%20Проверка%20гипотез%20по%20увеличению%20выручки%20в%20интернет-магазине%20.ipynb)
 
 ### Библиотеки: pandas / numpy / matplotlib / seaborn / datetime / scipy /  
   
